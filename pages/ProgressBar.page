@@ -10,14 +10,6 @@
 			<a href="#{!lis.url}">{!lis.name}</a>
 			</li>
 		</apex:repeat>
-		<!-- <li class="visited"><a href="#0">abc</a></li>
-		<li class="visited"><a href="#1">def</a></li>
-		<li class="visited"><a href="#2">def</a></li>
-		<li class="current"><a href="#3">def</a></li>
-		<li><em>def</em></li>
-		<li><em>def</em></li>
-		<li><em>ghi</em></li>
-		<li><em>jkl</em></li> -->
 	</ol> 
 
 </nav> 
